@@ -59,6 +59,20 @@ Food For All:
 
 ## Our solution
 
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- Android Studio
+- Java Development Kit (JDK)
+
+### Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-app.git
+
 ### Application systematics
 
 1. A merchant at the supply center registers the left over food in the app (in G or KG), takes a photo of the food and informs if this is donated or sold (for a small price informed by him);
